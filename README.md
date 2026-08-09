@@ -21,7 +21,7 @@
 
 ```python
 class HassaanAhmed:
-    role     = "Backend Software Engineer @ Pyko"     # remote · Canada-based
+    recent   = "Backend SWE @ Pyko"                   # Dec 2025 – Apr 2026
     studying = "BSc Artificial Intelligence @ GIKI"   # expected 2026
     focus    = ["RAG pipelines", "LLM agents", "prompt-injection defense"]
     stack    = ["Python", "LangChain", "LangGraph", "FastAPI", "Docker"]
@@ -32,9 +32,9 @@ class HassaanAhmed:
 I build **retrieval-grounded LLM systems that survive contact with real users** — agentic
 pipelines that call tools, reason across branches, and refuse the inputs designed to break them.
 
-At **Pyko** I designed a domain-specific language and compiler that generates arbitrary dynamic
-grading policies per assignment, and built the LLM chatbot that applies those policies
-in-conversation through tool-calling and branched dialogue. I own the monthly security audits
+At **Pyko** I designed a domain-specific language and compiler that generated arbitrary dynamic
+grading policies per assignment, and built the LLM chatbot that applied those policies
+in-conversation through tool-calling and branched dialogue. I owned the monthly security audits
 end-to-end — triage, fix, verify regression coverage.
 
 ---

@@ -88,21 +88,6 @@ end-to-end — triage, fix, verify regression coverage.
 
 ---
 
-## `>` stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xdhassaan&show_icons=true&hide=stars,issues&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xdhassaan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xdhassaan&theme=tokyonight&hide_border=true" alt="Streak" />
-
-</div>
-
----
-
 ## `>` contribution graph
 
 <div align="center">
